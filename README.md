@@ -2,4 +2,5 @@
 
 terraform examples
 
- - [test terraform functions](tf/var-output)
+- [test terraform functions](tf/var-output)
+- [remote plan](tf/remote)
