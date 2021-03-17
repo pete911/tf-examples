@@ -29,5 +29,5 @@ terraform {
 ```
 
 Now you can use remote state from terraform cloud locally:
-- `tf init`
-- `tf plan`
+- `terraform init`
+- `terraform plan`
